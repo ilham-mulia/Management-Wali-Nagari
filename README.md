@@ -1,2 +1,3 @@
 # Management Wali Nagari
- Sistem Informasi Data Desa
+Deskripsi lengkap In Progress
+- Dibuat mengunakan Codeigniter & Boostrap
